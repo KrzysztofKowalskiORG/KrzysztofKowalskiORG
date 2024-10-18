@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrzysztofKowalskiORG
 - 👀 I’m interested in data protection & gamification
-- 🌱 I’m currently learning Linux, Python, SQLite basics & how to understand EID in Windows environment.
-- 💞️ I’m looking to collaborate on gamification of data protection & on pentesting basics.
+- 🌱 I’m currently learning Linux basics, generative AI & how to monitor computer netowrk with WireShark.
+- 💞️ I’m looking to collaborate on gamification of security awareness training and Linux administration.
 - 📫 How to reach me: krzysztof@koworg.com
 
 <!---
