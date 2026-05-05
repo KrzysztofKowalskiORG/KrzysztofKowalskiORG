@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrzysztofKowalskiORG
-- 👀 I’m interested in data protection & gamification
-- 🌱 I’m currently learning Linux basics, generative AI & how to monitor computer netowrk with WireShark.
-- 💞️ I’m looking to collaborate on gamification of security awareness training and Linux administration.
+- 👀 I’m interested in relations with people & personal data protection.
+- 🌱 I’m currently learning AI agent skills & network monitoring with Zyxel Nebula Cloud.
+- 💞️ I’m looking to collaborate on AI agent skills practical implementation for GDPR compliance.
 - 📫 How to reach me: krzysztof@koworg.com
 
 <!---
